@@ -1,4 +1,5 @@
 aiogram==3.13.0
-aiohttp
-beautifulsoup4
-openai
+aiohttp==3.9.5
+beautifulsoup4==4.12.3
+openai==1.14.3
+pydantic==2.7.0
